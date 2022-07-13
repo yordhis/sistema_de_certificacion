@@ -1,0 +1,1000 @@
+
+@-ms-viewport{
+  width: device-width;
+}
+label {
+    display: block !important;
+    color: black;
+      font-family: 'Josefin Sans', sans-serif;
+      font-weight: 100;
+      font-size: 10px;
+  
+}
+.title{
+   color: black;
+      font-family: 'Josefin Sans', sans-serif;
+      text-align: center;
+}
+.title2{
+   color: black;
+      font-family: 'Josefin Sans', sans-serif;
+      text-align: center;
+}
+.cuenta p{
+   font-family: 'Josefin Sans', sans-serif;
+      text-align: center;
+}
+
+.label-boto{
+  visibility: hidden !important;
+}
+.wrapper{
+  
+  padding: 0px 0px 0px 0px;
+  margin-top:2rem;
+  width: 43rem;
+
+  background: white;
+  border-radius:8px;
+  display: flow-root;
+
+}
+
+
+.wrapper-login{
+  
+  padding: 30px 12px 0px 12px;
+  margin-top:2rem;
+  width: 39rem;
+  height: 82vh;
+  background: white;
+
+}
+body {
+  overflow-x: hidden; /* Hide scrollbars */
+}
+.slide{
+
+z-index: 400;
+position: absolute;
+top: 0px;
+right: 0px;
+width: 100%;
+display: flex;
+justify-content: center;
+
+flex-direction: column;
+align-content: center;
+justify-content: center;
+flex-wrap: nowrap;
+align-items: flex-end;
+
+}
+ .componente{
+
+ }
+ .ini{
+     color:#cf7700;
+ }
+
+.slide img{
+   width: 100%;
+position: relative;
+z-index: 10;
+top: 13rem;
+height: 100%;
+max-height: 89%;
+max-width: 48%;
+left: -30vh;
+}
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  padding: 7px 15px;
+      width: 30%;
+}
+
+
+.logo{
+  width: 50%;
+ 
+  display: block;
+  margin: 0px auto;
+}
+.form-control:valid {
+  background-color:  #dee2e6 !important;
+}
+
+input.form-control {
+    height: 40px;
+    border: none;
+}
+select.form-control {
+    height: 40px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+option {
+
+   font-family: 'Josefin Sans', sans-serif;
+}
+.container {
+    width: 1401px;
+}
+.principal{
+   
+   
+    position: absolute;
+  top: 0;
+  left: 0;
+  /* The image used */
+  background-image: url("fondo.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+ background-position: 0rem 0rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+
+
+   
+ height: 141%;
+
+
+
+}
+
+.col-6.formulario  {
+    margin-bottom: 0rem !important;
+    margin-bottom: 0rem !important;
+z-index: 500;
+position: relative;
+width: 32%;
+}
+
+.grid-child h1{
+
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 23px;
+  color: white;
+}
+
+
+.navbar{
+  border: none !important;
+}
+
+.navbar-inverse {
+    background-color: #00437600 !important;
+    border-color: #00437600 !important;
+    z-index: 100;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #ffffff;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+}
+nav.navbar.navbar-inverse {
+    border-radius: 0px;
+}
+.nav2{
+  padding-right: 4rem !important;
+  padding-left: 4rem !important;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+nav.navbar.navbar-inverse {
+    margin-bottom: 0px;
+    z-index: 3000;
+}
+.pregunta p {
+   font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+
+}
+.pregunta a{
+   font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+    color: white;
+
+}
+
+.pregunta {
+  padding-top: 11px;
+}
+
+.boton1 .btn {
+  font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+    width: 100%;
+    height: 40px;
+
+}
+
+.login{
+
+    background: url(bag-5.png) no-repeat center center;
+ background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+  
+     position: relative;
+  height: 180vh;
+     position: relative;
+  height: 100vh;
+  width: 100%;
+  //border: solid 1px red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login h2{
+font-family: 'Josefin Sans', sans-serif;
+   color: #004376;
+   text-align: center;
+}
+
+.login p{
+font-family: 'Josefin Sans', sans-serif;
+   color: #004376;
+   text-align: center;  
+}
+.amarillo {
+  color: #fb8500;
+}
+a:hover {
+            text-decoration: none !important;
+            color: #fb8500;
+        }
+
+
+
+        .welcome{
+
+    background: url(bag-5.png) no-repeat center center fixed;
+ background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+  background-color: #02186b !important;
+     position: relative;
+  height: 100vh;
+  width: 100%;
+  //border: solid 1px red;
+ display: flex;
+
+justify-content: center;
+
+align-items: center;
+
+flex-direction: column;
+
+align-content: center;
+}
+
+
+.page-header {
+border: none !important;
+}
+.page-header h1{
+  font-family: 'Josefin Sans', sans-serif;
+   color: white;
+   text-align: center;
+}
+.navbar.navbar-inverse.hola {
+    background-color: #004376 !important;
+}
+@media (max-width: 768px){
+
+  .wrapper{
+  
+  padding: 0px 0px 0px 0px !important;
+  margin-top:2rem;
+ width: auto !important;
+
+  background: white;
+  height: 100% !important;
+
+  }
+
+  .wrapper-login{
+  
+  padding: 44px 12px 44px 12px !important;
+  margin-top:2rem;
+ width: auto !important;
+
+  background: white;
+  height: 100% !important;
+
+  }
+  .slide{
+    display: none !important;
+  }
+.principal {
+  height: 174vh !important;
+}
+.formulario{
+padding: 3vh;
+}
+.form-group.col-md-12.cuenta {
+    padding-bottom: 13px;
+}
+}
+
+
+/*welcome*/
+
+/* Animation */
+
+
+
+
+
+/* Hotspot */
+#hotspotImg {
+
+background-color: #e9ecef;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+
+}
+
+.img-responsive {
+    
+}
+#hotspotImg .img-responsive {
+  
+  display: block;
+  margin: 0px auto;
+  width: 100% !important;
+  
+}
+
+#hotspotImg .hot-spot {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 5px;
+  left: 5px;
+  text-align: center;
+
+  color: #004376;
+  border-radius: 100%;
+  cursor: pointer;
+  transition: all .3s ease;
+    font-family: 'Josefin Sans', sans-serif;
+      font-weight: 100;
+}
+
+
+#hotspotImg .hot-spot .circle {
+  display: block;
+  position: absolute;
+  top: 45%;
+  left: 45%;
+  width: 2em;
+  height: 2em;
+  margin: -1em auto auto -1em;
+  -webkit-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  border-radius: 50%;
+  border: 1px solid #E5008A;
+  opacity: 0;
+  -webkit-animation: pulsate 3s ease-out infinite;
+  animation: pulsate 3s ease-out infinite;
+}
+
+#hotspotImg .hot-spot .tooltip {
+  background-color: rgba(58, 95, 150, 0.7);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  color: #fff;
+  display: none;
+  font-size: 14px;
+  opacity: 1.0;
+  left: 0px;
+  padding: 15px 5px;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: 280px;
+  z-index: 999;
+}
+
+#hotspotImg .hot-spot .tooltip .img-row {
+  padding: 10px;
+  text-align: center;
+}
+
+#hotspotImg .hot-spot .tooltip .text-row {
+  padding: 15px;
+}
+
+#hotspotImg .hot-spot .tooltip h4 {
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ffffff;
+}
+
+#hotspotImg .hot-spot .tooltip p {
+  font-size: 14px;
+  line-height: 1.4em;
+  margin-bottom: 10px;
+}
+#hotspotImg .hot-spot .tooltip p:last-child {
+  margin-bottom: 0;
+}
+
+.fas.fa-play-circle {
+    color: #e9a60a;
+    font-size: 11rem;
+    box-shadow: 5px 4px 40px 5px #7b7b7b;
+border-radius: 100%;
+}
+
+
+
+
+
+@media (min-width: 1024px)  {
+  
+  /* CSS */
+
+  .home-23 a {
+    transform: rotate(-90deg) !important;
+    font-size: 40px;
+    text-align: center;
+    display: flex;
+    position: absolute;
+    margin-left: 2rem;
+    display: ;
+    justify-content: center;
+    bottom: 0px;
+    background: #0000;
+    width: 310px;
+    height: 300px;
+    top: -12rem;
+    color: #f0f8ff00 !important;
+}
+
+.home-2 a{
+  font-size: 40px;
+text-align: center;
+top: 32rem;
+display: flex;
+position: absolute;
+margin-left: 2rem;
+display: ;
+justify-content: center;
+bottom: 0px;
+left: 0px;
+width: 400px;
+max-width: 400px;
+height: 300px;
+background: #0000;
+
+color: #0000 !important;
+height: 400px;
+}
+  
+}
+
+
+@media (min-width: 768px) {
+  .navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+  }
+}
+
+.logo-bien {
+    max-width: 12% !important ;
+    height: auto;
+}
+
+.bg-primary {
+    background-color: #fff !important;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: black !important;
+    font-family: 'Josefin Sans', sans-serif;
+  
+    font-size: 18;
+padding-top: 1rem;
+padding-left: 1rem !important;
+}
+
+.username a{
+  font-family: 'Josefin Sans', sans-serif;
+  padding-top: 1rem;
+padding-left: 1rem !important;
+font-size: 18px;
+}
+
+
+.modal.modal-fullscreen .modal-dialog {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  max-width: none; 
+}
+
+.modal.modal-fullscreen .modal-content {
+  height: auto;
+  height: 100vh;
+  border-radius: 0;
+  border: none; 
+}
+
+.modal.modal-fullscreen .modal-body {
+  overflow-y: auto; 
+}
+
+.modal-xl {
+    max-width: 41rem !important;
+}
+
+a:hover{
+    color: #0056b3;
+    text-decoration: none !important;
+}
+
+
+@media only screen and (max-width: 768px){
+    
+ .container {
+    width: 1500px !important;
+    margin-bottom: 0rem !important;
+}
+
+}
+
+
+
+/*header usuario*/
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+  /* The image used */
+  background-image: url("fondo-web.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+ background-position: 0rem 0rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  height: 144%;
+}
+.image1 {
+ 
+position: relative;
+top: 61px;
+left: -5rem;
+width: 100%;
+max-width: 14%;
+max-height: 40%;
+height: 100%;
+float: right;
+ transition: 0.4s ease;
+  transition: 0.4s ease;
+}
+.image1:hover{
+transform: scale(1.08);
+  transform: scale(1.08);
+}
+.image2{
+position: relative;
+top: 30px;
+left: -3rem;
+width: 100%;
+max-width: 13%;
+max-height: 35%;
+height: 100%;
+float: right;
+ transition: 0.4s ease;
+  transition: 0.4s ease;
+}
+.image2:hover{
+transform: scale(1.08);
+  transform: scale(1.08);
+}
+
+.image3{
+
+width: 100%;
+max-width: 13%;
+max-height: 37%;
+transition: 0.4s ease;
+transition: 0.4s ease;
+position: absolute;
+bottom: 0px;
+left: 33vh;
+transition: 0.4s ease;
+  transition: 0.4s eas
+}
+.image3:hover{
+transform: scale(1.08);
+  transform: scale(1.08);
+}
+
+.box{
+      display: flex;
+
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.image4{
+
+width: 100%;
+max-width: 11%;
+max-height: 29%;
+
+position: absolute;
+bottom: 3rem;
+width: 100%;
+left: 56vh;
+transition: 0.2s ease;
+  transition: 0.2s eas
+}
+
+.image4:hover{
+transform: scale(1.08);
+  transform: scale(1.08);
+}
+
+.box1{
+      display: flex;
+
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content:center;
+    width: 100%;
+}
+.image5{
+
+width: 100%;
+max-width: 15%;
+max-height: 30%;
+position: absolute;
+top: 73vh;
+left: 92vh;
+transition: 0.6s ease;
+transition: 0.6s eas;
+}
+.image5:hover{
+transform: scale(1.08);
+  transform: scale(1.08);
+}
+/*header*/
+.header{
+    height: 7rem;
+    background: rgba(45, 127, 215, 0.51);
+    position: relative;
+    top: 0px;
+    
+}
+
+
+.logo-head{
+     position: absolute;
+    top: 0px;
+
+}
+
+.logo-head img{
+ width: 100%;
+max-width: 13%;
+float: right;
+position: relative;
+left: -7vh;
+top: 0vh;
+}
+.site-footer span {
+    font-weight: 600;
+}
+.parent2{
+  position: relative;
+top: 0;
+left: 0;
+background-image: url("fondo-audi.jpg");
+height: 100%;
+background-position: 0rem 0rem;
+background-repeat: no-repeat;
+background-size: cover;
+
+width: 100%;
+}
+.box2{
+ display: flex;
+flex-direction: column;
+flex-wrap: nowrap;
+align-items: center;
+justify-content: end;
+width: 100%;
+position: relative;
+bottom: -27vh;
+width: 96%;
+height: 16%;
+}
+.btn_ripple {
+    border: none;
+    outline: none;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: block;
+    background-color: #e73212;
+    color: #fff;
+    display: grid;
+    place-items: center;
+    font-size: 18px;
+    cursor: pointer;
+    border: 2px solid #fff;
+
+    animation-name: ripple;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes ripple {
+    0% {
+        box-shadow: 0 0 0 0 #fff4, 0 0 0 0 #003057;
+    }
+
+    80% {
+        box-shadow: 0 0 0 20px #fff0, 0 0 0 40px #fff0;
+    }
+
+    100% {
+        box-shadow: 0 0 0 0 #fff0, 0 0 0 0 #fff0;
+    }
+}
+/*footer*/
+
+.site-footer
+{
+      background-color: #1773d7;
+    padding: 45px 0 20px;
+  font-size: 14px;
+line-height: 24px;
+color: #fff;
+    position: absolute;
+    width: 100%;
+    
+    font-family: 'Poppins', sans-serif;
+}
+}
+.site-footer hr
+{
+  border-top-color:#bbb;
+  opacity:0.5
+}
+.site-footer hr.small
+{
+  margin:20px 0
+}
+.site-footer h6
+{
+  color:#fff;
+  font-size:16px;
+  text-transform:uppercase;
+  margin-top:5px;
+  letter-spacing:2px
+}
+.site-footer a
+{
+  color:#737373;
+}
+.site-footer a:hover
+{
+  color:#3366cc;
+  text-decoration:none;
+}
+.footer-links
+{
+  padding-left:0;
+  list-style:none
+}
+.footer-links li
+{
+  display:block
+}
+.footer-links a
+{
+  color:#737373
+}
+.footer-links a:active,.footer-links a:focus,.footer-links a:hover
+{
+  color:#3366cc;
+  text-decoration:none;
+}
+.footer-links.inline li
+{
+  display:inline-block
+}
+.site-footer .social-icons
+{
+  text-align:right
+}
+.site-footer .social-icons a
+{
+  width:40px;
+  height:40px;
+  line-height:40px;
+  margin-left:6px;
+  margin-right:0;
+  border-radius:100%;
+  background-color:#33353d;
+  padding: 12px;
+}
+.instagram{
+  background: #f09433; 
+background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+}
+.facebook{
+  background: #4267B2 !important;
+}
+.twitter{
+  background: #1DA1F2 !important;
+
+}
+
+.youtube{
+  background: #FF0000 !important;
+}
+.linkedin{
+
+  background:  #2867b2 !important;
+}
+.copyright-text
+{
+  margin:0
+}
+@media (max-width:991px)
+{
+  .site-footer [class^=col-]
+  {
+    margin-bottom:30px
+  }
+}
+@media (max-width:767px)
+{
+  .site-footer
+  {
+    padding-bottom:0
+  }
+  .site-footer .copyright-text,.site-footer .social-icons
+  {
+    text-align:center
+  }
+}
+.social-icons
+{
+  padding-left:0;
+  margin-bottom:0;
+  list-style:none
+}
+.social-icons li
+{
+  display:inline-block;
+  margin-bottom:4px
+}
+.social-icons li.title
+{
+  margin-right:15px;
+  text-transform:uppercase;
+  color:#96a2b2;
+  font-weight:700;
+  font-size:13px
+}
+.social-icons a{
+  background-color:#eceeef;
+  color:white;
+  font-size:16px;
+  display:inline-block;
+  line-height:44px;
+  width:44px;
+  height:44px;
+  text-align:center;
+  margin-right:8px;
+  border-radius:100%;
+  -webkit-transition:all .2s linear;
+  -o-transition:all .2s linear;
+  transition:all .2s linear
+}
+.social-icons a:active,.social-icons a:focus,.social-icons a:hover
+{
+  color:#fff;
+  background-color:#29aafe
+}
+.social-icons.size-sm a
+{
+  line-height:34px;
+  height:34px;
+  width:34px;
+  font-size:14px
+}
+.social-icons a.facebook:hover
+{
+  background-color:#3b5998
+}
+.social-icons a.twitter:hover
+{
+  background-color:#00aced
+}
+.social-icons a.linkedin:hover
+{
+  background-color:#007bb6
+}
+.social-icons a.dribbble:hover
+{
+  background-color:#ea4c89
+}
+@media (max-width:767px)
+{
+  .social-icons li.title
+  {
+    display:block;
+    margin-right:0;
+    font-weight:600
+  }
+}
+
+/*agenda*/
+.parent3{
+  position: absolute;
+top: 0;
+left: 0;
+background-image: url("fondo.jpg");
+height: 100%;
+background-position: 0rem 0rem;
+background-repeat: no-repeat;
+background-size: cover;
+
+width: 100%;
+height: 144%;
+}
+
+
+/*expositores*/
+
+.parentcuatro{
+  position: relative;
+top: 0;
+left: 0;
+background-image: url("fondo-ex.jpg");
+height: 100%;
+background-position: 0rem 0rem;
+background-repeat: no-repeat;
+background-size: cover;
+
+width: 100%;
+background-attachment: fixed;
+height: 285rem;
+}
